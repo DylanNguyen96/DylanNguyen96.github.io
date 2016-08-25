@@ -1,0 +1,1 @@
+Collection of documentation pertaining to Team 5's project
